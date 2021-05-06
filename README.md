@@ -16,6 +16,6 @@ Crear una gráfica comparativa de Rendimiento entre Cython y Python
 ![graficaTiempos](https://user-images.githubusercontent.com/83736427/117224839-87547d80-add6-11eb-8bd6-81355ee61d7a.png)
 
 
-# *tiempo Cython :* 9.73
-# *tiempo Python :*  0.190
+# *tiempo Cython :* 9.73 s
+# *tiempo Python :*  0.190 s
 # *SpeedUp :* 50.954
